@@ -1,14 +1,10 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/PatterAI/Patter/main/docs/patter-logo-banner.svg" alt="Patter" width="400" />
-
-  **The open-source Voice AI SDK**
-
-  *by [Patter](https://getpatter.com)*
+  <img src="https://raw.githubusercontent.com/PatterAI/.github/main/profile/assets/banner.png" alt="Patter" width="100%" />
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/PatterAI/Patter/blob/main/LICENSE)
-  [![Python](https://img.shields.io/pypi/v/patter?label=Python%20SDK)](https://pypi.org/project/patter/)
-  [![npm](https://img.shields.io/npm/v/@patter-dev/sdk?label=TypeScript%20SDK)](https://www.npmjs.com/package/@patter-dev/sdk)
+  [![Python](https://img.shields.io/pypi/v/getpatter?label=Python%20SDK)](https://pypi.org/project/getpatter/)
+  [![npm](https://img.shields.io/npm/v/getpatter?label=TypeScript%20SDK)](https://www.npmjs.com/package/getpatter)
   [![GitHub Discussions](https://img.shields.io/github/discussions/PatterAI/Patter)](https://github.com/PatterAI/Patter/discussions)
 
   </div>
